@@ -121,6 +121,7 @@
   },
   "defaultProject": "loango",
   "cli": {
+    "analytics": "54e17768-4f48-459b-abc5-3d8914fdd844",
     "defaultCollection": "@ngrx/schematics"
   }
 }
